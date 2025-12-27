@@ -1,0 +1,66 @@
+2025-12-12 12:06:20,139 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.80.155:5000
+2025-12-12 12:06:20,139 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-12 12:06:20,142 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:06:20,514 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:06:20,518 - werkzeug - INFO -  * Debugger PIN: 996-131-629
+2025-12-12 12:13:05,018 - werkzeug - INFO -  * Detected change in 'd:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\config.py', reloading
+2025-12-12 12:13:05,082 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:13:05,562 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:13:05,564 - werkzeug - INFO -  * Debugger PIN: 996-131-629
+2025-12-12 12:13:06,581 - werkzeug - INFO -  * Detected change in 'd:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\init_db.py', reloading
+2025-12-12 12:13:06,645 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:13:07,097 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:13:07,100 - werkzeug - INFO -  * Debugger PIN: 996-131-629
+2025-12-12 12:13:25,173 - werkzeug - INFO -  * Detected change in 'd:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\config.py', reloading
+2025-12-12 12:13:25,236 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:13:25,727 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:13:25,730 - werkzeug - INFO -  * Debugger PIN: 996-131-629
+2025-12-12 12:13:29,763 - werkzeug - INFO -  * Detected change in 'd:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\models.py', reloading
+2025-12-12 12:13:29,834 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:13:30,342 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:13:30,344 - werkzeug - INFO -  * Debugger PIN: 996-131-629
+2025-12-12 12:13:34,271 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.80.155:5000
+2025-12-12 12:13:34,271 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-12 12:13:34,272 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:13:34,547 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:13:34,548 - werkzeug - INFO -  * Debugger PIN: 996-131-629
+2025-12-12 12:14:27,459 - werkzeug - INFO - 127.0.0.1 - - [12/Dec/2025 12:14:27] "[33mGET / HTTP/1.1[0m" 404 -
+2025-12-12 12:14:27,752 - werkzeug - INFO - 127.0.0.1 - - [12/Dec/2025 12:14:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-12 12:16:04,087 - werkzeug - INFO - 127.0.0.1 - - [12/Dec/2025 12:16:04] "[33mGET / HTTP/1.1[0m" 404 -
+2025-12-12 12:19:31,693 - werkzeug - INFO -  * Detected change in 'D:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\config.py', reloading
+2025-12-12 12:19:31,733 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:19:32,070 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:19:32,072 - werkzeug - INFO -  * Debugger PIN: 996-131-629
+2025-12-12 12:20:43,716 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.80.155:5000
+2025-12-12 12:20:43,716 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-12 12:20:43,725 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:20:47,042 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:20:47,048 - werkzeug - INFO -  * Debugger PIN: 228-411-389
+2025-12-12 12:21:35,678 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.80.155:5000
+2025-12-12 12:21:35,678 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-12 12:21:35,680 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:21:36,487 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:21:36,493 - werkzeug - INFO -  * Debugger PIN: 228-411-389
+2025-12-12 12:24:31,052 - werkzeug - INFO -  * Detected change in 'D:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\config.py', reloading
+2025-12-12 12:24:31,307 - werkzeug - INFO -  * Detected change in 'D:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\config.py', reloading
+2025-12-12 12:24:48,909 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.80.155:5000
+2025-12-12 12:24:48,909 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-12 12:24:48,911 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:24:49,167 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:24:49,168 - werkzeug - INFO -  * Debugger PIN: 996-131-629
+2025-12-12 12:25:37,744 - werkzeug - INFO - 127.0.0.1 - - [12/Dec/2025 12:25:37] "[33mGET / HTTP/1.1[0m" 404 -

@@ -1,0 +1,80 @@
+2025-12-12 11:46:21,109 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.80.155:5000
+2025-12-12 11:46:21,109 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-12 11:46:21,111 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 11:46:21,365 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 11:46:21,367 - werkzeug - INFO -  * Debugger PIN: 577-739-785
+2025-12-12 11:53:16,492 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.80.155:5000
+2025-12-12 11:53:16,492 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-12 11:53:16,493 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 11:53:17,077 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 11:53:17,082 - werkzeug - INFO -  * Debugger PIN: 577-739-785
+2025-12-12 11:59:34,756 - werkzeug - INFO -  * Detected change in 'D:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\config.py', reloading
+2025-12-12 11:59:34,850 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 11:59:35,438 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 11:59:35,442 - werkzeug - INFO -  * Debugger PIN: 577-739-785
+2025-12-12 12:13:04,443 - werkzeug - INFO -  * Detected change in 'D:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\config.py', reloading
+2025-12-12 12:13:04,525 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:13:04,989 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:13:04,992 - werkzeug - INFO -  * Debugger PIN: 577-739-785
+2025-12-12 12:13:07,029 - werkzeug - INFO -  * Detected change in 'D:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\init_db.py', reloading
+2025-12-12 12:13:07,090 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:13:07,508 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:13:07,510 - werkzeug - INFO -  * Debugger PIN: 577-739-785
+2025-12-12 12:13:24,641 - werkzeug - INFO -  * Detected change in 'D:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\config.py', reloading
+2025-12-12 12:13:24,721 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:13:25,234 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:13:25,236 - werkzeug - INFO -  * Debugger PIN: 577-739-785
+2025-12-12 12:13:30,293 - werkzeug - INFO -  * Detected change in 'D:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\models.py', reloading
+2025-12-12 12:13:30,359 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:13:30,802 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:13:30,805 - werkzeug - INFO -  * Debugger PIN: 577-739-785
+2025-12-12 12:17:58,890 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.80.155:5000
+2025-12-12 12:17:58,890 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-12 12:17:58,894 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:18:02,144 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:18:02,151 - werkzeug - INFO -  * Debugger PIN: 577-739-785
+2025-12-12 12:19:31,713 - werkzeug - INFO -  * Detected change in 'D:\\Study\\PAF-IAST\\5th Semester\\Full Stack Development\\Assignments\\Assignment 4\\CampusHub\\backend\\config.py', reloading
+2025-12-12 12:19:31,776 - werkzeug - INFO -  * Restarting with stat
+2025-12-12 12:19:32,266 - werkzeug - WARNING -  * Debugger is active!
+2025-12-12 12:19:32,270 - werkzeug - INFO -  * Debugger PIN: 577-739-785
+2025-12-27 22:54:02,961 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-12-27 22:54:02,965 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-27 22:54:02,965 - werkzeug - INFO -  * Restarting with stat
+2025-12-27 22:54:03,276 - werkzeug - WARNING -  * Debugger is active!
+2025-12-27 22:54:03,276 - werkzeug - INFO -  * Debugger PIN: 172-374-406
+2025-12-27 22:57:24,792 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-12-27 22:57:24,792 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-27 22:57:24,792 - werkzeug - INFO -  * Restarting with stat
+2025-12-27 22:57:25,105 - werkzeug - WARNING -  * Debugger is active!
+2025-12-27 22:57:25,108 - werkzeug - INFO -  * Debugger PIN: 172-374-406
+2025-12-27 22:58:58,423 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-12-27 22:58:58,423 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-27 22:58:58,425 - werkzeug - INFO -  * Restarting with stat
+2025-12-27 22:58:58,705 - werkzeug - WARNING -  * Debugger is active!
+2025-12-27 22:58:58,710 - werkzeug - INFO -  * Debugger PIN: 172-374-406
+2025-12-27 23:00:35,653 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+2025-12-27 23:00:35,653 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-27 23:00:35,655 - werkzeug - INFO -  * Restarting with stat
+2025-12-27 23:00:35,911 - werkzeug - WARNING -  * Debugger is active!
+2025-12-27 23:00:35,918 - werkzeug - INFO -  * Debugger PIN: 172-374-406
